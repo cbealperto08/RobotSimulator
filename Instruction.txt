@@ -1,0 +1,5 @@
+1. Open the source code by navigating the .sln file
+2. If no editor available you can directly run the application.
+	- Navigate to RobotSimulator\RobotSimulator\bin\Debug folder
+	- Double click the RobotSimulator.exe
+	- The command menu instructions is displayed in the application.
